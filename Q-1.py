@@ -9,3 +9,7 @@ for i in student_lst:
 
 print(f"number of boys are {boys_count}")
 print(f"number of girls are {girls_count}")
+
+#OUTPUT:
+# number of boys are 2
+# number of girls are 2
