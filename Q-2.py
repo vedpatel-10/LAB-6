@@ -13,3 +13,7 @@ print("List of roll numbers:", roll)
 print("List of name:", name) 
 print("List of age:", age) 
 
+#OUTPUT:
+# List of roll numbers: [209, 208, 177]
+# List of name: ['ved', 'taksh', 'Reyan']
+# List of age: [18, 19, 18]  
