@@ -35,3 +35,6 @@ days_of_date2 = number_of_days(d2,m2,y2)
 difference = abs(days_of_date1 - days_of_date2)
 
 print(f"Total days between are : {difference}")
+
+#OUTPUT:
+# Total days between are : 750
