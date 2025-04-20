@@ -5,3 +5,6 @@ for i in lst:
         lst.remove(i)
 
 print(lst)        
+
+#OUTPUT:
+# [(21, 13, 'fd'), (3,), ('had', 53, 2)]
